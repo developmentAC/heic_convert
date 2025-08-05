@@ -237,7 +237,7 @@ Check that:
 
 ### A Work In Progress
 
-Check back often to see the evolution of the project!! _RInfomaid_ is a work-in-progress. Updates will come periodically.
+Check back often to see the evolution of the project!! This is a work-in-progress. Updates will come periodically.
 
 If you would like to contribute to this project, **then please do!** For instance, if you see some low-hanging fruit or task that you could easily complete, that could add value to the project, then I would love to have your insight.
 
