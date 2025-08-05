@@ -1,0 +1,20 @@
+[package]
+#name = "heic2png"
+name = "heic_convert"
+version = "0.7.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+image = "0.25"
+anyhow = "1.0"
+
+# add some color to the output
+colored = "3.0.0"
+
+toml = "0.8.20"
+#tokio = {version = "1.44.2" ,features = ["full"]}
+serde = { version = "1.0", features = ["derive"] }
+
+# We'll use the image crate's built-in HEIC support via libheif
+# For now, let's create a simpler version that shows the structure
